@@ -1,5 +1,5 @@
 {
-  "name": "@taoyage/react-mobile-ui",
+  "name": "@sweetmilk/react-mobile-ui-zwj",
   "version": "1.8.9",
   "description": "A react mobile components lib",
   "main": "lib/index.js",
@@ -39,9 +39,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/taoyage/react-mobile-ui.git"
+    "url": "https://github.com/SweetMilk-ZWJ/react-mobile-ui-zwj.git"
   },
-  "author": "taoyage",
+  "author": "sweetmilk",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.18.9",
